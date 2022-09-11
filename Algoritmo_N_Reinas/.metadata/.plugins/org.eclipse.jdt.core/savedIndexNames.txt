@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+D:\Documentos\Eclipse Trabajos\Algoritmo_N_Reinas\Algoritmo_N_Reinas\.metadata\.plugins\org.eclipse.jdt.core
+2069569448.index
+1567934308.index

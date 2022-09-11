@@ -1,0 +1,20 @@
+/**
+ * 
+ */
+package co.edu.uniquindio.problema_algoritmo_N_reinas;
+
+/**
+ * @author GonzalezHDanielaA
+ *
+ */
+public class algoritmo_N_Reinas {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

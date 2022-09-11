@@ -1,0 +1,23 @@
+/**
+ * 
+ */
+package co.edu.uniquindio.algoritmo_N_Reinas.modelo;
+
+/**
+ * @author GonzalezHDanielaA
+ *
+ */
+public class Main {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		
+		Operacion operacion= new Operacion();
+		
+		operacion.imprimir2();
+
+	}
+
+}

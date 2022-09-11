@@ -1,0 +1,21 @@
+/**
+ * 
+ */
+package co.edu.uniquindio.algoritmo_N_Reinas.modelo;
+
+/**
+ * @author GonzalezHDanielaA
+ *
+ */
+public class Main {
+
+	/**
+	 * @param args
+	 */
+	public static void Main(String[] args) {
+		
+		System.out.println("Hola");
+
+	}
+
+}

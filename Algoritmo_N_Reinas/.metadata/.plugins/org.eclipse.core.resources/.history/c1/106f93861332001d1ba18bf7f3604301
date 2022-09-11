@@ -1,0 +1,12 @@
+package co.edu.uniquindio.algoritmo_N_Reinas.modelo;
+
+public class main {
+
+	public static void main(String[] args) {
+		
+		
+		System.out.println("Hola");
+
+	}
+
+}
